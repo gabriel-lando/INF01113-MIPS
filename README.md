@@ -6,7 +6,7 @@ Utilizando o simulador Logisim e as três organizações do MIPS disponibilizada
 
 As istruções implementadas foram: JAL, BLEZ e SRA.
 
-Dentro do diretório ```docs``` há a descrição completa deste trabalho (fornecida pelo professor da disciplina e acessada em 04 de maio de 2019) e um relatório detalhando as mudanças feitas em relação a versão original de cada uma das máquinas.
+Dentro do diretório ```Docs``` há a descrição completa deste trabalho (fornecida pelo professor da disciplina e acessada em 04 de maio de 2019) e um relatório detalhando as mudanças feitas em relação a versão original de cada uma das máquinas.
 
 
 #### Softwares utilizados:
