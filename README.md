@@ -13,10 +13,10 @@ Dentro do diretório ```Docs``` há a descrição completa deste trabalho (forne
 - [Logisim](https://sourceforge.net/projects/circuit/).
 
 #### Disciplina:
-Organização de Computadores B (INF01113) - INF-UFRGS
+- Organização de Computadores B (INF01113) - INF-UFRGS
 
 #### Professor:
-[Luigi Carro](http://www.inf.ufrgs.br/~carro/)
+- [Luigi Carro](http://www.inf.ufrgs.br/~carro/)
 
 #### Grupo:
 
