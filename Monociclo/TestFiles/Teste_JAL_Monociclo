@@ -1,0 +1,15 @@
+v2.0 raw
+00000000
+0c000005
+8c110000
+ac110004
+
+#nop
+#jal lb1
+#lw $s1, 0($zero)
+#sw $s1, 4($zero)
+#lb1:
+
+#JAL executa jump incondicional, salvando retorno no registrador 31.
+#Se JAL funciona, nao copia primeira posicao da memoria de dados pra segunda.
+#O valor "1" deve restar no registrador 31.

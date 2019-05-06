@@ -1,0 +1,23 @@
+v2.0 raw
+8c110010
+00119083
+ac120014
+00000000  
+00000000  #colocar valor
+00000000  #resultado
+
+#lw $s1, lb1($zero)
+#sra $s2, $s1, 2
+#sw $s2, lb2($zero)
+#sll $zero $zero 0
+#lb1:
+#sll $zero $zero 0  <- colocar valor
+#lb2:
+#sll $zero $zero 0  <- resultado
+
+#sra shifta um registrador n bits
+#mantendo o sinal e poe em outro.
+
+#se sra funciona guarda na segunda
+#posicao de memoria o valor da pri-
+#meira shiftado.
