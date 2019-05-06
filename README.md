@@ -6,6 +6,8 @@ Utilizando o simulador Logisim e as três organizações do MIPS disponibilizada
 
 As instruções implementadas foram: JAL, BLEZ e SRA.
 
+Para cada instrução, há um exemplo de código (dentro da pasta ```TestFiles``` de cada tipo de máquina) que pode ser carregado para a memória de instruções do processador.
+
 Dentro do diretório ```Docs``` há a descrição completa deste trabalho (fornecida pelo professor da disciplina e acessada em 04 de maio de 2019) e um relatório detalhando as mudanças feitas em relação a versão original de cada uma das máquinas.
 
 
