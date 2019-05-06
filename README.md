@@ -4,7 +4,7 @@ Trabalho 1 OrgB 2019/1
 #### Objetivo:
 Utilizando o simulador Logisim e as três organizações do MIPS disponibilizadas (Monociclo, Multiciclo e Pipeline), implementar 3 das 5 instruções fornecidas para cada uma destas três versões, conforme sorteio feito em aula.
 
-As instruções implementadas foram: JAL, BLEZ e SRA.
+As instruções implementadas foram: **JAL, BLEZ e SRA**.
 
 Para cada instrução, há um exemplo de código (dentro da pasta ```TestFiles``` de cada tipo de máquina) que pode ser carregado para a memória de instruções do processador.
 
