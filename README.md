@@ -12,7 +12,7 @@ Dentro do diretório ```Docs``` há a descrição completa deste trabalho (forne
 
 **Nota: 8.8**
 
-**Obs:** Diferentemente da documentação disponibilizada no Moodle (PFDs na pasta ```Docs```) e em sites acessados durante o desenvolvimento do trabalho, onde a instrução JAL estava descrita como ```$ra = PC + 8```, o professor considerou como correta a implementação ```$ra = PC + 4```, a qual não foi explicada durante as aulas e fez o grupo perder 1.2 pontos do total do trabalho. Mesmo argumentando com o professor, seu orgulho fez com que ele não admitisse o erro e mantivesse essa nota para o grupo.
+**Obs:** Diferentemente da documentação disponibilizada no Moodle (PDFs na pasta ```Docs```) e em sites acessados durante o desenvolvimento do trabalho, onde a instrução JAL estava descrita como ```$ra = PC + 8```, o professor considerou como correta a implementação ```$ra = PC + 4```, a qual não foi explicada durante as aulas e fez o grupo perder 1.2 pontos do total do trabalho. Mesmo argumentando com o professor, seu orgulho fez com que ele não admitisse o erro e mantivesse essa nota para o grupo.
 
 #### Softwares utilizados:
 - [Logisim](https://sourceforge.net/projects/circuit/).
