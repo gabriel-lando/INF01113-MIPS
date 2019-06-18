@@ -10,6 +10,8 @@ Para cada instrução, há um exemplo de código (dentro da pasta ```TestFiles``
 
 Dentro do diretório ```Docs``` há a descrição completa deste trabalho (fornecida pelo professor da disciplina e acessada em 04 de maio de 2019) e um relatório detalhando as mudanças feitas em relação a versão original de cada uma das máquinas.
 
+**Nota: 8.8**
+**Obs:** Diferentemente da documentação disponibilizada no Moodle (PFDs na pasta ```Docs```) e em sites acessados durante o desenvolvimento do trabalho, onde a instrução JAL estava descrita como ```$ra = PC + 8```, o professor considerou como correta a implementação ```$ra = PC + 4```, a qual não foi explicada durante as aulas e fez o grupo perder 1.2 pontos do total do trabalho. Mesmo argumentando com o professor, seu orgulho fez com que ele não admitisse o erro e mantivesse essa nota para o grupo.
 
 #### Softwares utilizados:
 - [Logisim](https://sourceforge.net/projects/circuit/).
